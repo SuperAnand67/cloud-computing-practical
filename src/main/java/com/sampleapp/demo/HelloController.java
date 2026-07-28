@@ -30,7 +30,7 @@ public class HelloController {
                         display: flex;
                         justify-content: center;
                         align-items: center;
-                        background: linear-gradient(135deg, #0f172a 0%, #1e293b 100%);
+                        background: linear-gradient(135deg, #0f172a 0%%, #1e293b 100%%);
                         color: #f8fafc;
                     }
                     .card {
@@ -42,7 +42,7 @@ public class HelloController {
                         box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.3), 0 10px 10px -5px rgba(0, 0, 0, 0.04);
                         text-align: center;
                         max-width: 480px;
-                        width: 90%;
+                        width: 90%%;
                     }
                     .badge {
                         display: inline-block;
